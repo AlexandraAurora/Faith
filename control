@@ -1,0 +1,9 @@
+Package: codes.aurora.faith
+Name: Faith
+Version: 1.0
+Architecture: iphoneos-arm
+Description: Lyrics on the lock screen.
+Maintainer: Alexandra Aurora Göttlicher
+Author: Alexandra Aurora Göttlicher
+Section: Tweaks
+Depends: firmware (>= 14.0), mobilesubstrate, preferenceloader
